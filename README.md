@@ -9,9 +9,6 @@ Build predictive models to understand customer churn behavior.
 
 The repository includes two main notebooks:
 
-Data Cleaning.ipynb – handles preprocessing and feature engineering.
-
-Data Prediction.ipynb – applies machine learning models for churn prediction.
 ------
 
 ## Files
@@ -38,14 +35,12 @@ Demonstrates feature scaling (StandardScaler, MinMaxScaler).
 Handles missing values with mean imputation.
 
 Prepares subsets of data (e.g., Age, Tenure) for experimentation.
-
-Sets up arrays to test scaling transformations.
 -----
 
 ## Requirements
 
 Install dependencies before running the notebooks:
-pip install pandas numpy scikit-learn matplotlib
+ pip install pandas numpy scikit-learn matplotlib
 -----
 
 ## Usage
